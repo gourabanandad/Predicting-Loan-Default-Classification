@@ -4,7 +4,7 @@
 This project aims to predict loan defaults using machine learning. By analyzing key features of loan applications, the model identifies borrowers likely to default, helping lenders mitigate risks and make informed decisions.
 
 ## Dataset
-- **Source:** [[Dataset Link (If public, add the link)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)]
+- **Source:** [[Link of the dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club)]
 - **Description:** The dataset contains information such as credit score, income, loan amount, and other financial indicators.
 
 ## Methodology
