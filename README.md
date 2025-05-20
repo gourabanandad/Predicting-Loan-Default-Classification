@@ -96,6 +96,4 @@ Feel free to fork this repo, open issues, or submit pull requests.
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
----
 
-Let me know if you'd like a version with badges, emojis removed, or if you want a Markdown file for download.
