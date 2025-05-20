@@ -43,7 +43,7 @@ By analyzing key financial indicators like **credit score**, **income**, and **l
 
 * 📈 Metrics: Accuracy, AUC-ROC, Precision, Recall
 * 🏆 Best model: **XGBoost**
-* 🎯 AUC-ROC: **0.89**
+* 🎯 AUC-ROC: **0.98**
 
 ---
 
